@@ -1,0 +1,8 @@
+pane	0	0	:surge	1	:*	0	:/home/daniel	0	ssh	:ssh surge
+pane	0	0	:surge	1	:*	1	:/home/daniel	1	ssh	:ssh surge
+pane	1	0	:bash	1	:*	0	:/home/daniel	1	bash	:
+pane	4	0	:bash	1	:*	0	:/home/daniel	1	bash	:
+window	0	0	1	:*	879b,417x114,0,0{208x114,0,0,8,208x114,209,0,12}
+window	1	0	1	:*	9641,207x114,0,0,4
+window	4	0	1	:*	9644,207x114,0,0,7
+state	0	4
